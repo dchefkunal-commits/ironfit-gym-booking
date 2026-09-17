@@ -1,0 +1,6 @@
+{
+  "name": "IronFit Gym",
+  "description": "Modern responsive gym appointment booking website for IronFit Gym featuring service and trainer scheduling, live booking management, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
